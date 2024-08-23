@@ -46,8 +46,9 @@ Follow these steps to run the full-stack application:
 
    If you haven't already, clone the repository to your local machine:
 
-   ``` git clone https://github.com/your-username/my-fullstack-app.git ```
-   ``` cd my-fullstack-app ```
+   ```bash 
+   git clone https://github.com/MdNaeemurRahman/my-fullstack-app.git
+   cd my-fullstack-app
 
 2. **Build and Run the Application:**
 
