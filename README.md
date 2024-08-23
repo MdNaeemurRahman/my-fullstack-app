@@ -52,7 +52,8 @@ Follow these steps to run the full-stack application:
 
 2. **Build and Run the Application:**
 
-    ` docker compose up --build `
+    ```bash
+    docker compose up --build
 
 3. **Access the Application:**
 
@@ -60,8 +61,9 @@ Follow these steps to run the full-stack application:
     - Backend API: Visit `http://localhost:3000/api` to access the backend API directly.
 
 4. **Stopping the Application and Cleanup**
-
-    `docker compose down`
-    `docker compose down --volumes`
+    
+    ```bash
+    docker compose down
+    docker compose down --volumes
 
 
